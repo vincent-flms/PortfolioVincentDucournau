@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/PortfolioVincentDucournau/static/css/main.e6c13ad2.css",
+    "main.js": "/PortfolioVincentDucournau/static/js/main.db20ff8d.js",
+    "static/js/453.ace21015.chunk.js": "/PortfolioVincentDucournau/static/js/453.ace21015.chunk.js",
+    "static/media/logoMain.png": "/PortfolioVincentDucournau/static/media/logoMain.0150e63e91b6706f3cdd.png",
+    "static/media/FrontW&b.svg": "/PortfolioVincentDucournau/static/media/FrontW&b.152287a20804a5f46585aab27d481dec.svg",
+    "static/media/LettreDeVol.svg": "/PortfolioVincentDucournau/static/media/LettreDeVol.b5dd8903e818cf943fe16595baaa12d3.svg",
+    "static/media/warnitApp.svg": "/PortfolioVincentDucournau/static/media/warnitApp.c16fbf32464646ccd80382ab9878d6c2.svg",
+    "static/media/imagePerso.jpg": "/PortfolioVincentDucournau/static/media/imagePerso.292b6d3b8527ae462058.jpg",
+    "static/media/WarnitMenu.svg": "/PortfolioVincentDucournau/static/media/WarnitMenu.44b4eebb905b40e1d7fdaa303c5e1a73.svg",
+    "static/media/scheduleBlack.jpg": "/PortfolioVincentDucournau/static/media/scheduleBlack.2f27298cc001230b2e48.jpg",
+    "static/media/Warnit.svg": "/PortfolioVincentDucournau/static/media/Warnit.4b94604fae28b4f7b7ecaba58c510316.svg",
+    "static/media/calendarBlack.jpg": "/PortfolioVincentDucournau/static/media/calendarBlack.07efd5b3065b031c2658.jpg",
+    "index.html": "/PortfolioVincentDucournau/index.html",
+    "main.e6c13ad2.css.map": "/PortfolioVincentDucournau/static/css/main.e6c13ad2.css.map",
+    "main.db20ff8d.js.map": "/PortfolioVincentDucournau/static/js/main.db20ff8d.js.map",
+    "453.ace21015.chunk.js.map": "/PortfolioVincentDucournau/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.db20ff8d.js"
+  ]
+}
